@@ -1,0 +1,1 @@
+<pre><?= htmlspecialchars($plainText, ENT_QUOTES, 'UTF-8') ?></pre>
